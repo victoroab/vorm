@@ -1,0 +1,11 @@
+{
+  "name": "vorm",
+  "version": "0.0.1",
+  "description": "Light weight orm with pg",
+  "main": "index.js",
+  "author": "Victor Balogun",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}

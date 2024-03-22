@@ -1,0 +1,16 @@
+{
+  "name": "pg",
+  "version": "0.0.1",
+  "description": "pg adapter",
+  "main": "index.js",
+  "author": "Victor Balogun",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.3"
+  }
+}
